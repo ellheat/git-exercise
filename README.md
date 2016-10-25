@@ -11,6 +11,12 @@ git checkout feature/myapi
 git flow feature finish myapi
 ```
 
+Finish feature home-css
+```
+git checkout feature/home-css
+git flow feature finish home-css
+```
+
 Finish feature home-list
 ```
 git checkout feature/home-list
